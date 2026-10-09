@@ -1,0 +1,13 @@
+print('Olá')
+meme_dict = {
+            'CRINGE": "Algo vergonhoso ou constrangedor',
+            'STALKEAR": "Investigar a vida de alguém online ou na vida real',
+            'BISCOITAR - postar algo apenas para chamar a atenção',
+            'HATER - pessoa que está constantemente criticando os outros',
+            }
+word = input("Digite uma palavra moderna que você não entende (escreva todo a palavra em letras maiúsculas): ")
+if word in meme_dict:
+    print(dict[word])
+else:
+    palavra = input('Essa palavra não está adicionada, voce deseja adicionar?)')
+    if palavra == 'sim' or palavra == 'sim'
